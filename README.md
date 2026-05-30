@@ -46,7 +46,7 @@ Installation:
 
 4. Add Environment Variables:
    Create a .env file:
-   GROQ_API_KEY= not mentioning here but can be found in the project.
+   GROQ_API_KEY= not mentioning here but can be found in the project .env file.
    
 5. Run Application:
    streamlit run app.py
